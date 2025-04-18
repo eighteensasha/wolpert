@@ -60,3 +60,7 @@ body{
 * {
     box-sizing: border-box;
 }
+
+.container {
+  position: relative;
+}
