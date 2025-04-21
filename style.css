@@ -56,28 +56,3 @@ body{
     margin-left: 7cm;
     margin-right: 7cm;
    }
-
-* {
-    box-sizing: border-box;
-}
-.container {
-  position: relative;
-}
-.mySlides {
-  display: none;
-}
-.prev,
-.next {
-  cursor: pointer;
-  position: absolute;
-  top: 40%;
-  width: auto;
-  padding: 16px;
-  margin-top: -50px;
-  color: white;
-  font-weight: bold;
-  font-size: 20px;
-  border-radius: 0 3px 3px 0;
-  user-select: none;
-  -webkit-user-select: none;
-} 
